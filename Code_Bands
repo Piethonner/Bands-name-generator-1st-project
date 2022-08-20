@@ -1,5 +1,6 @@
-#Silly I know, but here you go with your own new band name!
+# First very basic input/output project.
+
 print('Hello there!')
 City = input('Which city did you grew up in?\n')
 Pet = input('What\'s the name of your pet?\n')
-print("Your band name could be 🥁 🥁 🥁 " + City + " "+ Pet + "!")
+print("Your band name could be 🥁 🥁 🥁 " + City + " " + Pet + "!")
